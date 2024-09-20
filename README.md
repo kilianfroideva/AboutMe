@@ -38,15 +38,7 @@ I am a passionate student eager to dive deep into the world of data science and 
 ## 📫 Contact Me
 
 - **Email**: [kilian.froidevaux@heig-vd.ch](mailto:kilian.froidevaux@heig-vd.ch)
-- **LinkedIn**: [Your LinkedIn Profile](#) *(If you have one)*
 
----
-
-## 📊 GitHub Stats
-
-![Kilian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kilianfroidevaux&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kilianfroidevaux&layout=compact&theme=radical)
 
 ---
 
